@@ -1,4 +1,3 @@
-أكيد، هادي هي النسخة بنفس الستايل ديال الدروس السابقة، English ثم Darija، وبلا emojis، مع تصحيح بسيط للنقطة التقنية ديال `NULL` و`PRIMARY KEY` باش تكون دقيقة.
 
 # Lesson 84 - UNIQUE Constraint
 
