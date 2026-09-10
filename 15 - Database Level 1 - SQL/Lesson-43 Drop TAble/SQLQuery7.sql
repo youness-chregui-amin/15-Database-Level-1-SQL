@@ -1,0 +1,2 @@
+USE DB1;
+DROP TABLE Table_1;

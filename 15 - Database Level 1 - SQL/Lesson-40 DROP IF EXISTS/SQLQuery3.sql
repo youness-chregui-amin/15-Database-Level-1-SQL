@@ -1,0 +1,4 @@
+	IF EXISTS(SELECT * FROM sys.databases WHERE name = 'DB')
+		BEGIN
+			DROP DATABASE DB1;
+		END
