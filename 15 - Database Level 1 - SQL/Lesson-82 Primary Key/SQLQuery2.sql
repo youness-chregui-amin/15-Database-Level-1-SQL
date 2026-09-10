@@ -1,0 +1,18 @@
+CREATE TABLE Persons (
+   ID INT NOT NULL PRIMARY KEY,
+   LastName VARCHAR(255) NOT NULL,
+   FirstName VARCHAR(255),
+   Age INT
+);
+
+CREATE TABLE Persons0 (
+   ID INT NOT NULL,
+   LastName VARCHAR(255) NOT NULL,
+   FirstName VARCHAR(255),
+   Age INT,
+   CONSTRAINT PK_Person PRIMARY KEY (ID, LastName)
+);
+
+
+ALTER TABLE Persons
+ADD PRIMARY KEY (ID);
