@@ -1,4 +1,3 @@
-أكيد، هاهي **Lesson 05** بنفس الـformat اللي اتفقنا عليه: English → عنوان Moroccan Arabic Version فالوسط → Darija RTL، بلا emojis، وباسمك.
 
 # Lesson 05 - Primary Key vs Foreign Key
 
