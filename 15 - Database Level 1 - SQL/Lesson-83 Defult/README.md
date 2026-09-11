@@ -1,4 +1,4 @@
-غادي نعاودو بنفس الستايل ديال الدروس السابقة: English ثم النسخة بالدارجة، بلا emojis، وباسمك فـ Author.
+
 
 # Lesson 83 - DEFAULT Constraint
 
